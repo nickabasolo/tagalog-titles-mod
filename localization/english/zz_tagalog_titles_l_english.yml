@@ -1,0 +1,26 @@
+﻿l_english:
+
+  # Barony
+  baron_male_tagalog:0 "Gat"
+  baron_female_tagalog:0 "Gat"
+  barony_tagalog:0 "Kampong"
+
+  # County
+  count_male_tagalog:0 "Datu"
+  count_female_tagalog:0 "Datu"
+  county_tagalog:0 "Barangay"
+
+  # Duchy
+  duke_male_tagalog:0 "Lakan"
+  duke_female_tagalog:0 "Lakan"
+  duchy_tagalog:0 "Bayan"
+
+  # Kingdom
+  king_male_tagalog:0 "Hari"
+  king_female_tagalog:0 "Hari"
+  kingdom_tagalog:0 "Kaharian"
+
+  # Empire
+  emperor_male_tagalog:0 "Dakilang Hari"
+  emperor_female_tagalog:0 "Dakilang Hari"
+  empire_tagalog:0 "Dakilang Kaharian"

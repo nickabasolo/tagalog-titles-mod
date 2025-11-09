@@ -1,0 +1,181 @@
+﻿### Tagalog forms of address and realm names (All Under Heaven)
+
+# BARONY (baron/baroness) → Gat (unisex) ; Realm label → Kampong
+baron_male_tagalog = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 500
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+baron_female_tagalog = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 500
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+barony_tagalog = {
+	type = title
+	name_lists = { name_list_tagalog }
+	tier = barony
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	priority = 500
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+
+# COUNTY (count/countess) → Datu (unisex) ; Realm label → Barangay
+count_male_tagalog = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 510
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+count_female_tagalog = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 510
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+county_tagalog = {
+	type = title
+	name_lists = { name_list_tagalog }
+	tier = county
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	priority = 510
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+
+# DUCHY (duke/duchess) → Lakan (unisex) ; Realm label → Bayan
+duke_male_tagalog = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 520
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+duke_female_tagalog = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 520
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+duchy_tagalog = {
+	type = title
+	name_lists = { name_list_tagalog }
+	tier = duchy
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	priority = 520
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+
+# KINGDOM (king/queen) → Hari (unisex) ; Realm label → Kaharian
+king_male_tagalog = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 540
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+king_female_tagalog = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 540
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+kingdom_tagalog = {
+	type = title
+	name_lists = { name_list_tagalog }
+	tier = kingdom
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	priority = 540
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+
+# EMPIRE (emperor/empress) → Dakilang Hari (unisex) ; Realm label → Imperyo
+emperor_male_tagalog = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 550
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+emperor_female_tagalog = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	name_lists = { name_list_tagalog }
+	priority = 550
+	flavourization_rules = {
+		top_liege = no
+	}
+}
+empire_tagalog = {
+	type = title
+	name_lists = { name_list_tagalog }
+	tier = empire
+	governments = { feudal_government tribal_government administrative_government republic_government mandala_government wanua_government }
+	priority = 550
+	flavourization_rules = {
+		top_liege = no
+	}
+}
